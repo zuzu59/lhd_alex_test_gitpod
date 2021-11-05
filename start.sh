@@ -1,7 +1,6 @@
 #!/bin/bash
 #Petit script pour démarrer tout le binz
-#zf211105.1629
-
+#zf211105.1637
 
 sudo apt update ; sudo apt-get install apt-transport-https ca-certificates -y ; sudo update-ca-certificates
 git config --global credential.helper wincred
